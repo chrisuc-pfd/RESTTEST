@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module-content version="11.7">
+<module id="69f8fbe0-9011-4358-8d89-70ada36ad165" name="RESTTEST">
+<resource path="AppServer" publish="true"/>
+</module>
+</module-content>
